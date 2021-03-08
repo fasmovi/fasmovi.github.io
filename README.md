@@ -1,2 +1,2 @@
-# fasmovi.github.io
-Github Page для удобного скачивания приложения
+# Fasmovi Media Client
+In developing
